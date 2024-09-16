@@ -1,0 +1,14 @@
+C:\Users\kesha\Desktop\labsC#\num5\num5\bin\Debug\net8.0\num5.exe
+C:\Users\kesha\Desktop\labsC#\num5\num5\bin\Debug\net8.0\num5.deps.json
+C:\Users\kesha\Desktop\labsC#\num5\num5\bin\Debug\net8.0\num5.runtimeconfig.json
+C:\Users\kesha\Desktop\labsC#\num5\num5\bin\Debug\net8.0\num5.dll
+C:\Users\kesha\Desktop\labsC#\num5\num5\bin\Debug\net8.0\num5.pdb
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.AssemblyInfoInputs.cache
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.AssemblyInfo.cs
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.csproj.CoreCompileInputs.cache
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.dll
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\refint\num5.dll
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.pdb
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\num5.genruntimeconfig.cache
+C:\Users\kesha\Desktop\labsC#\num5\num5\obj\Debug\net8.0\ref\num5.dll

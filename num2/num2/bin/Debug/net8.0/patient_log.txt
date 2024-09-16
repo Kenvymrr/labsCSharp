@@ -1,0 +1,10 @@
+16.09.2024 19:00:36: Patient 1 entered inspection room (sick: False).
+16.09.2024 19:00:36: Patient 3 entered inspection room (sick: False).
+16.09.2024 19:00:36: Patient 5 entered inspection room (sick: False).
+16.09.2024 19:00:36: Patient 8 entered inspection room (sick: False).
+16.09.2024 19:00:36: Patient 9 entered inspection room (sick: False).
+16.09.2024 19:00:46: Patient 10 entered inspection room (sick: False).
+16.09.2024 19:00:46: Patient 15 entered inspection room (sick: False).
+16.09.2024 19:00:46: Patient 16 entered inspection room (sick: False).
+16.09.2024 19:00:54: Patient 17 entered inspection room (sick: False).
+16.09.2024 19:00:54: Patient 22 entered inspection room (sick: False).
